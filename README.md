@@ -4,9 +4,9 @@ Objective: Research and write a detailed report on social engineering attacks su
 
 SOCIAL ENGINEERING ATTACKS:- Social Engineering attacks are psychological manipulations that exploit human behavior and trust to gain unauthorized access to systems,data,or physical locations.Unlike traditional hacking,which relies on exploiting technical bulnerabilities,social engineering targets the weakest link in cybersecurity.These attacks are prevalent,effective, and increasingly sophisticated, making them one of the top cybersecurity threats faced by organizations globally.
 
-Working of Social Engineering Attack:-
-social engineering relies on deception,manipulation, and persuasion.The attacker impersonates a trusted individual,authority figure, or colleague to trick the victim into Divulging confidential information(e.g.,passwords,PINs, or credentials),Clicking malicious links or downloading malware,granting physical or digital access to restricted systems.
 
+Working of Social Engineering Attack:-
+social engineering is based on persuasion,deception, and manipulation.The attacker plays the role of a trusted person,an authority figure,or co-worker for the purpose of deceiving the victim into Releasing confidential details(e.g.passwords,PINs,or credentials),Clicking on harmful links or downloading viruses,providing physical or digital entry to secured systems.
 The attackers typically follows a process:
 1) Research: Gather information about the target(company structure,employee names,email formats,etc)
 2) Engagement: Initiate contact using email,phone,social media, or in person.
@@ -17,7 +17,7 @@ The attackers typically follows a process:
 Now we will discuss about the types of social engineering attacks
 
 1) Phishing
-Phishing is a form of social engineering attack in which cybercriminals deceive users into revealing sensitive information such as login credentials,credit card numbers, or personal data by pretending to be a trustworthy entity.It typically occurs through emails,messages, or fake websites that appear legitimate.The main goal of phishing is to steal data,compromise systems or gain unauthorized access to networks and accounts.
+Phishing is social engineering where the attackers trick users into giving away sensitive data like login credentials,credit card numbers,or personal information by impersonating a trusted entity.It is usually done via emails,messages,or cloned sites that seem legitimate.The primary intention behind phishing is data theft,compromising systems or unauthorized access to networks and accounts.
 
 Working of Phishing
 1) Attackers collect email addresses,roles, or company info via data leaks or public records.
@@ -37,14 +37,14 @@ Types of Phishing Attacks
 Case Studies of Phishing Attacks
 
 1) Google and Facebook(2013-2015)
-A lithuanian man created a fake company impersonating Quanta Computer,a legitimate taiwanese vendor that supplied hardware to both googlr and facebook.He registered a fraudulent company with a similar name and set up corresponding email addresses.He sent fake invoices and phishing emails requesting payments for services that appeared legitimate.Multiple payments were made to accounts controlled by the attacker.
+A lithuanian individual established an imitation company representing Quanta Computer, a genuine taiwanese supplier which sold hardware to googlr and facebook.He established a fake company with a similar name and created similar email addresses.He dispatched forged bills and phishing emails demanding payment for services that seemed genuine.Multiple payments were made to accounts owned by the attacker.
 
 Impact:- approximately $100 million was stolen.The stolen funds were transferred through Latvia,Cyprus,Slovakia,Lithuania,Hungary and Hong Kong to conceal their origin.
 
 Detection and Response:- U.S. law enforcement agencies, including the FBI, launched an international investigation.The man was arrested in lithuania in 2017,extradited to the U.S., and                             pleaded guilty.Some of the stolen funds were recovered.
 
 2) Sony Pictures Hack(2014)
-In sony pictures hack spear phishing emails were sent to sony employees,disguised as messages from apple requesting email and password verification.Employees fell for the scam and entered their credentials.Attackers used this information to penetrate deeper into the network.The attacker was later attributed to a hacker group known as 'Guardians of Peace' allegedly sponsored by North Korea.The initial attack occured in september 2014 but in november 2014, a massive breach had taken place.
+In sony pictures hack spear phishing emails were sent to sony employees,pretending to be messages from apple asking email and password verification.Employees got duped and logged in with their details.Attackers used these details to proceed further into the network.The attacker was later ascribed to a hacker group called 'Guardians of Peace' supposedly sponsored by North Korea.The first attack happened in september 2014 but in november 2014, a huge breach had occurred.
 
 Impact:-Leak of 100 terabytes of data including unreleased movies,personal employee data,executive emails with sensitive conversations,salary information and social security numbers.
         Financial damage estimated in million of dollors.
@@ -55,7 +55,7 @@ Detection and Response:- Sony shut down parts of its network.
                          Sony enhanced security measures post-incident,including identity verification training and phishing simulations.
 
 3) Colonial Pipeline Ransomware Attack(2021)
-In this attack attackers gained through a compromised VPN account-likely credentials obtained via phishing or from a prior data breach.The credentials did not use multi-factor authentication.The dark side ransomware group encrypted systems and demanded ransom.The attack began on May 7,2021.Colonial shut down the entire pipeline to contain the breach.
+In this attack attackers acquired through a compromised VPN account-probably credentials acquired through phishing or from an earlier data breach.The credentials were not enabled with multi-factor authentication.The dark side ransomware group encrypted systems and requested ransom.The attack was initiated on May 7,2021.Colonial shut down the entire pipeline in an attempt to contain the breach.
 
 Impact:- Widespread fuel shortages in several U.S. states.
          Panic buying and fuel surges.
@@ -106,7 +106,7 @@ Technical Controls:-
 
 
 2) Pretexting
-Pretexting is a form of social engineering attack where an attacker fabricates a believable scenario or identity (a “pretext”) to trick a victim into divulging sensitive information or performing actions they normally wouldn’t. The attacker often impersonates authority figures like IT support, HR personnel, bank officials, or law enforcement officers to establish credibility and exploit the trust of the victim.Pretexting typically involves extensive research about the target and is often more sophisticated than phishing, as it requires real-time interaction and manipulation.
+Pretexting is a type of social engineering attack in which an attacker creates a plausible pretext or scenario (a "pretext") to deceive a victim into revealing confidential information or taking steps that he or she would not otherwise take. The hacker usually pretends to be someone who exercises authority such as IT support personnel, HR staff, bank employees, or police officers in order to gain credibility and take advantage of the victim's trust.Pretexting usually involves a lot of research on the target and tends to be more high-tech than phishing since it is based on real-time interaction and manipulation.
 
 Working of Pretexting
 1) The attacker gathers personal or organizational information (names, titles, procedures).This can be done via social media, dumpster diving, leaked databases, or other open sources (OSINT).
@@ -119,7 +119,7 @@ Working of Pretexting
 Case Studies of Pretexting Attacks
 
 1) Hewlett-Packard (HP) Boardroom Pretexting Scandal(2006)
-In 2006, Hewlett-Packard (HP), one of the world’s largest tech companies, became embroiled in a corporate espionage scandal. The company was investigating media leaks from boardroom meetings.HP hired external investigators to identify the source of leaks to journalists.These investigators used pretexting to obtain phone records of board members, HP employees, and journalists.Investigators impersonated the individuals and contacted telecom providers pretending to be them, using publicly available personal data (like social security numbers or birth dates) to bypass identity checks.The phone companies, deceived by these false identities, gave out detailed phone logs.
+Hewlett-Packard (HP), a global technology firm, was involved in a scandal of corporate espionage in 2006. The firm was probing media leaks during boardroom meetings.HP hired outside investigators to trace the source of leaks to the media.These investigators employed pretexting to get phone records of journalists, HP staff, and board members.Investigators posed as the individuals and called telecom providers posing as them, employing public information about personal details (such as social security numbers or birth dates) to beat identity checks.The telecom companies, tricked by these fake identities, provided extensive phone logs.
 
 Impact:-The scandal became public after media exposure and drew widespread criticism.
         U.S. Congressional hearings were held, and lawsuits were filed.HP’s Chairwoman, Patricia Dunn,resigned.
@@ -131,8 +131,8 @@ Consequences for HP:- Severe damage to public trust and corporate image.
 
 
 2) Verizon Customer Support Breach(2017)
-Verizon, a major U.S. telecom company, faced a serious data breach in mid-2017, compromising millions of customer records.An attacker posed as an internal Verizon employee or contractor from an outsourced support firm.Using phone calls and chat-based interactions, they convinced a legitimate employee to grant them access to Verizon's customer service support portal.
-This portal had access to customer records, including names, phone numbers, account PINs, and more.Data from 6 million customers was eventually leaked and found stored on an unsecured Amazon Web Services (AWS) server.
+Verizon, a leading U.S. telecommunications company, experienced a severe data breach in mid-2017, impacting millions of customer records.An attacker pretended to be an in-house Verizon employee or contractor from an outsourced support company.Through calls and text-based communications, they tricked an actual employee into allowing them access to Verizon's customer support help portal.
+This portal was also able to access customer data, such as names, phone numbers, account PINs, and more.Data belonging to 6 million customers was ultimately stolen and discovered on an unprotected Amazon Web Services (AWS) server.
 
 Impact:-Exposure of millions of customer records.
         Public backlash about data handling and vendor security.
@@ -144,7 +144,12 @@ Consequences for Verizon:- Embarrassment and reputational damage.
 
 
 3) Twitter Bitcoin Scam(July 2020)
-In July 2020, Twitter suffered one of the most high-profile cybersecurity breaches in history when attackers took control of prominent Twitter accounts.Attackers used pretexting to impersonate Twitter IT support staff.They contacted several Twitter employees via phone, claiming to be from the internal IT department.By building trust, they convinced employees to share their credentials for internal administrative tools.With admin access, attackers hijacked over 130 verified Twitter accounts, including those of Elon Musk, Barack Obama, Bill Gates, Apple, and others.The compromised accounts posted Bitcoin scam messages, promising to double cryptocurrency sent to a wallet address.
+Twitter experienced one of the highest-profile cyberattacks in history in July 2020 when hackers gained control of high-profile Twitter accounts.
+Attackers perpetrated pretexting to impersonate Twitter IT support staff.
+They made phone calls to numerous Twitter employees, pretending to be part of the internal IT department.
+By establishing trust, they coaxed employees into providing login details for internal administrative tools.
+Admin access gave attackers control of more than 130 verified Twitter accounts belonging to Elon Musk, Barack Obama, Bill Gates, Apple, and others.
+The hacked accounts tweeted Bitcoin scam messages, offering to double cryptocurrency sent to a wallet address.
 
 Impact:- Major reputation damage to Twitter.
          Stock prices fell temporarily.
@@ -196,7 +201,8 @@ Employee-Level:
 
 
 3) Baiting
-Baiting is a form of social engineering attack that lures victims into a trap by offering something enticing, such as free software, digital media, or physical goods, to manipulate them into compromising their system or revealing confidential information. The attack capitalizes on human curiosity or greed and typically involves the delivery of malware via digital downloads or infected physical media like USB drives.
+Baiting is a social engineering attack that tricks the victim into getting trapped with an appealing something, like free software or digital media, or even physical items, as a lure to entice them into breaching their system or leaking confidential information. The attack exploits human greed or curiosity and most often involves malware delivery through digital downloads or physically infected media, like USB drives.
+
 
 Working of Baiting
 1)The attacker creates a tempting lure — this could be a free music/video file, fake job offer, software, or an abandoned USB device labeled “Confidential” or “Payroll Info.”
@@ -241,7 +247,7 @@ Impact & Significance:
 
 
 2) Stuxnet – A Nation-State USB Baiting Attack (Iran, 2010)
-Stuxnet was a highly sophisticated cyber-weapon discovered in 2010, believed to be a joint effort by the U.S. and Israeli intelligence. It was designed to sabotage Iran's nuclear program by targeting the Programmable Logic Controllers (PLCs) used in uranium enrichment.
+Stuxnet was an extremely advanced cyber-warfare weapon unearthed in 2010 and is attributed as a collaboration between U.S. and Israeli intelligence. The malware was created to destroy Iran's nuclear program by infecting the Programmable Logic Controllers (PLCs) on the uranium enrichment process.
 
 Execution:
           The Natanz nuclear facility in Iran was air-gapped (not connected to the internet), making remote attacks impossible.
@@ -290,7 +296,7 @@ Real-World Examples:
 
 
 4) Tailgating(Piggybacking)
-Tailgating, also known as "piggybacking," is a type of physical security breach in which an unauthorized person gains access to a restricted area by following an authorized individual without consent or proper credentials. It is a form of social engineering attack that exploits human behavior, particularly politeness and trust.Unlike cyber attacks that target digital systems, tailgating targets the physical security perimeter of an organization and can lead to theft, espionage, sabotage, or data compromise.
+Tailgating or "piggybacking" is a physical security intrusion where an unprivileged individual enters a secured zone by tracking an authenticated user without their permission or valid credentials. It is a social engineering attack that takes advantage of human nature, especially courtesy and trust.Separately from cyber attacks that attack digital systems, tailgating attacks the physical perimeter of an organization's security and can result in theft, espionage, sabotage, or data compromise.
 
 Working of Tailgating
 1)The attacker monitors the premises to identify routines, access points, and employees.
